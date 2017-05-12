@@ -1,19 +1,19 @@
-# generator-rwt-react [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url]
-> 基于yeoman的react脚手架
+# generator-fdt-react-component [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url]
+> 基于yeoman的react组件脚手架
 
 ## Installation
 
-First, install [Yeoman](http://yeoman.io) and generator-rwt-react using [npm](https://www.npmjs.com/) (we assume you have pre-installed [node.js](https://nodejs.org/)).
+First, install [Yeoman](http://yeoman.io) and generator-fdt-react-component using [npm](https://www.npmjs.com/) (we assume you have pre-installed [node.js](https://nodejs.org/)).
 
 ```bash
 npm install -g yo
-npm install -g generator-rwt-react
+npm install -g generator-fdt-react-component
 ```
 
 Then generate your new project:
 
 ```bash
-yo rwt-react
+yo fdt-react-component
 ```
 
 ## Getting To Know Yeoman

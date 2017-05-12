@@ -1,7 +1,7 @@
 {
-  "name": "generator-rwt-react",
-  "version": "0.1.0",
-  "description": "基于yeoman的react脚手架",
+  "name": "generator-fdt-react-component",
+  "version": "1.0.0",
+  "description": "基于yeoman的react的组件脚手架",
   "homepage": "",
   "author": {
     "name": "wentao.ruan",
@@ -21,6 +21,6 @@
     "chalk": "^1.0.0",
     "yosay": "^1.0.2"
   },
-  "repository": "bayun2/generator-rwt-react",
+  "repository": "bayun2/generator-fdt-react-component",
   "license": "MIT"
 }
