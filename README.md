@@ -28,9 +28,9 @@ yo fdt-react-component
 MIT © [wentao.ruan]()
 
 
-[npm-image]: https://badge.fury.io/js/generator-rwt-react.svg
-[npm-url]: https://npmjs.org/package/generator-rwt-react
-[travis-image]: https://travis-ci.org/bayun2/generator-rwt-react.svg?branch=master
-[travis-url]: https://travis-ci.org/bayun2/generator-rwt-react
-[daviddm-image]: https://david-dm.org/bayun2/generator-rwt-react.svg?theme=shields.io
-[daviddm-url]: https://david-dm.org/bayun2/generator-rwt-react
+[npm-image]: https://badge.fury.io/js/fdt-react-component.svg
+[npm-url]: https://npmjs.org/package/fdt-react-component
+[travis-image]: https://travis-ci.org/bayun2/fdt-react-component.svg?branch=master
+[travis-url]: https://travis-ci.org/bayun2/fdt-react-component
+[daviddm-image]: https://david-dm.org/bayun2/fdt-react-component.svg?theme=shields.io
+[daviddm-url]: https://david-dm.org/bayun2/fdt-react-component
