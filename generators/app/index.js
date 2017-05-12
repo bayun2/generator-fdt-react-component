@@ -20,7 +20,7 @@ module.exports = yeoman.Base.extend({
       'Welcome to the amazing ' + chalk.red('generator-fdt-react-component') + ' generator!'
     ));
 
-    var DIRECTORIES = ['src', 'test', 'demo'];
+    var DIRECTORIES = ['src', 'dist', 'test', 'demo'];
     var FILES = [
       '.babelrc',
       '.eslintrc',
