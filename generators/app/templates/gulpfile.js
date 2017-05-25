@@ -63,7 +63,7 @@ gulp.task('dev', cb => {
   };
   wpConfig.externals = {
     react: 'React',
-    'react-demo': 'ReactDOM'
+    'react-dom': 'ReactDOM'
   };
   Object.keys(wpConfig.entry).forEach(k => wpConfig.entry[k].unshift(
     'react-hot-loader/patch',
